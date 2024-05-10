@@ -1,0 +1,222 @@
+2024-05-10 00:28:26.043 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 00:28:26.044 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 00:28:32.027 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 00:29:26.361 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 00:29:26.363 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 00:29:32.704 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 00:30:34.402 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 00:30:34.404 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 00:30:35.219 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 00:30:51.801 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 00:30:51.802 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 00:30:58.972 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 00:31:51.070 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 00:31:51.071 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 00:31:57.634 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 01:53:52.403 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 01:53:52.404 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 01:53:58.915 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 01:55:30.504 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 01:55:30.505 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 01:55:36.937 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 01:56:42.306 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 01:56:42.307 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 01:56:48.178 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 01:57:33.123 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 01:57:33.125 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 01:57:51.494 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 01:58:43.479 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 01:58:43.480 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 01:58:52.231 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 01:59:01.714 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 01:59:01.715 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 01:59:14.691 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 01:59:25.297 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 01:59:25.298 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 01:59:39.598 [main] INFO  com.moneytolia.step_definitions.Hooks:41 - Test scenario is passed
+2024-05-10 01:59:59.098 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 01:59:59.099 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:00:13.189 [main] INFO  com.moneytolia.step_definitions.Hooks:41 - Test scenario is passed
+2024-05-10 02:00:17.304 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:00:17.306 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:00:25.236 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 02:00:58.260 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:00:58.261 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:01:06.312 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 02:03:05.712 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:03:05.713 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:03:13.959 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 02:04:17.268 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:04:17.270 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:06:59.476 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:06:59.477 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:08:11.626 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:08:11.627 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:08:34.697 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:08:34.699 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:09:07.416 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:09:07.417 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:09:38.132 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:09:38.134 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:09:46.492 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 02:12:25.911 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:12:25.913 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:12:46.322 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 02:13:29.253 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:13:29.254 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:13:48.378 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 02:14:26.153 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:14:26.155 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:14:40.856 [main] INFO  com.moneytolia.step_definitions.Hooks:41 - Test scenario is passed
+2024-05-10 02:18:38.139 [main] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:18:38.141 [main] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:18:57.714 [main] ERROR com.moneytolia.step_definitions.Hooks:38 - Test scenario is failed Add multiple products to the cart and verify
+2024-05-10 02:18:58.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+2024-05-10 02:18:58.093 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+2024-05-10 02:18:58.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+2024-05-10 02:18:58.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart7.xml.rels
+2024-05-10 02:18:58.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart10.xml.rels
+2024-05-10 02:18:58.096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+2024-05-10 02:18:58.096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+2024-05-10 02:18:58.097 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+2024-05-10 02:18:58.097 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+2024-05-10 02:18:58.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+2024-05-10 02:18:58.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+2024-05-10 02:18:58.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+2024-05-10 02:18:58.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/externalLinks/_rels/externalLink2.xml.rels
+2024-05-10 02:18:58.100 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-10 02:18:58.101 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-10 02:18:58.101 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-05-10 02:18:58.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-05-10 02:18:58.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+2024-05-10 02:18:58.102 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2024-05-10 02:18:58.103 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-05-10 02:18:58.103 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2024-05-10 02:18:58.103 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+2024-05-10 02:18:58.104 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-05-10 02:18:58.359 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:18:58.381 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:18:58.381 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:18:58.382 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:18:58.382 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:18:58.386 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:18:58.386 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:18:58.387 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:18:58.392 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:18:58.392 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:18:58.392 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:18:58.393 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:18:58.395 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:18:58.801 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:562 - Save content types part
+2024-05-10 02:18:58.829 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:566 - Save package relationships
+2024-05-10 02:18:58.830 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/app.xml'
+2024-05-10 02:18:58.830 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/core.xml'
+2024-05-10 02:18:58.831 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart1.xml'
+2024-05-10 02:18:58.832 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart2.xml'
+2024-05-10 02:18:58.832 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart3.xml'
+2024-05-10 02:18:58.832 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart4.xml'
+2024-05-10 02:18:58.833 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart5.xml'
+2024-05-10 02:18:58.833 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart6.xml'
+2024-05-10 02:18:58.833 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart7.xml'
+2024-05-10 02:18:58.834 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart8.xml'
+2024-05-10 02:18:58.834 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart9.xml'
+2024-05-10 02:18:58.834 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart10.xml'
+2024-05-10 02:18:58.835 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart11.xml'
+2024-05-10 02:18:58.835 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart12.xml'
+2024-05-10 02:18:58.835 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/comments1.xml'
+2024-05-10 02:18:58.835 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing1.xml'
+2024-05-10 02:18:58.836 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing2.xml'
+2024-05-10 02:18:58.836 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing3.xml'
+2024-05-10 02:18:58.836 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing4.xml'
+2024-05-10 02:18:58.837 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing5.xml'
+2024-05-10 02:18:58.837 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing6.xml'
+2024-05-10 02:18:58.837 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing8.xml'
+2024-05-10 02:18:58.838 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing9.xml'
+2024-05-10 02:18:58.838 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/vmlDrawing1.vml'
+2024-05-10 02:18:58.838 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/externalLinks/externalLink1.xml'
+2024-05-10 02:18:58.838 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/externalLinks/externalLink2.xml'
+2024-05-10 02:18:58.839 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-05-10 02:18:58.839 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings2.bin'
+2024-05-10 02:18:58.839 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings4.bin'
+2024-05-10 02:18:58.839 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings5.bin'
+2024-05-10 02:18:58.839 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings8.bin'
+2024-05-10 02:18:58.840 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/sharedStrings.xml'
+2024-05-10 02:18:58.840 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/styles.xml'
+2024-05-10 02:18:58.840 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/theme/theme1.xml'
+2024-05-10 02:18:58.840 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/workbook.xml'
+2024-05-10 02:18:58.841 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet1.xml'
+2024-05-10 02:18:58.841 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet2.xml'
+2024-05-10 02:18:58.842 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet4.xml'
+2024-05-10 02:18:58.842 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet5.xml'
+2024-05-10 02:18:58.842 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet8.xml'
+2024-05-10 02:20:40.056 [pool-3-thread-1] INFO  com.moneytolia.step_definitions.Hooks:23 - Test Scenario : Add multiple products to the cart and verify
+2024-05-10 02:20:40.058 [pool-3-thread-1] INFO  com.moneytolia.step_definitions.Hooks:24 - Browser type ----> chrome
+2024-05-10 02:20:53.535 [pool-3-thread-1] INFO  com.moneytolia.step_definitions.Hooks:41 - Test scenario is passed
+2024-05-10 02:20:53.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart1.xml.rels
+2024-05-10 02:20:53.865 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart2.xml.rels
+2024-05-10 02:20:53.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+2024-05-10 02:20:53.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+2024-05-10 02:20:53.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart8.xml.rels
+2024-05-10 02:20:53.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+2024-05-10 02:20:53.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+2024-05-10 02:20:53.869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+2024-05-10 02:20:53.869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+2024-05-10 02:20:53.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+2024-05-10 02:20:53.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+2024-05-10 02:20:53.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+2024-05-10 02:20:53.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-10 02:20:53.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-10 02:20:53.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-05-10 02:20:53.873 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-05-10 02:20:53.873 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+2024-05-10 02:20:53.874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-05-10 02:20:53.874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2024-05-10 02:20:53.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+2024-05-10 02:20:53.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-05-10 02:20:54.106 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:20:54.124 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:20:54.125 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:20:54.125 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:20:54.125 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:20:54.128 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:20:54.128 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:20:54.130 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:20:54.133 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-05-10 02:20:54.133 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:20:54.136 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:20:54.138 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-10 02:20:54.343 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:562 - Save content types part
+2024-05-10 02:20:54.364 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:566 - Save package relationships
+2024-05-10 02:20:54.365 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/app.xml'
+2024-05-10 02:20:54.366 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/core.xml'
+2024-05-10 02:20:54.367 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart1.xml'
+2024-05-10 02:20:54.367 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart2.xml'
+2024-05-10 02:20:54.368 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart3.xml'
+2024-05-10 02:20:54.368 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart4.xml'
+2024-05-10 02:20:54.369 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart5.xml'
+2024-05-10 02:20:54.369 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart6.xml'
+2024-05-10 02:20:54.369 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart7.xml'
+2024-05-10 02:20:54.370 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart8.xml'
+2024-05-10 02:20:54.370 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart9.xml'
+2024-05-10 02:20:54.370 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart10.xml'
+2024-05-10 02:20:54.371 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing1.xml'
+2024-05-10 02:20:54.371 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing2.xml'
+2024-05-10 02:20:54.371 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing3.xml'
+2024-05-10 02:20:54.372 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing4.xml'
+2024-05-10 02:20:54.372 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing5.xml'
+2024-05-10 02:20:54.372 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing6.xml'
+2024-05-10 02:20:54.372 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing8.xml'
+2024-05-10 02:20:54.373 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing9.xml'
+2024-05-10 02:20:54.373 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/externalLinks/externalLink1.xml'
+2024-05-10 02:20:54.373 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-05-10 02:20:54.374 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings2.bin'
+2024-05-10 02:20:54.374 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings4.bin'
+2024-05-10 02:20:54.374 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings7.bin'
+2024-05-10 02:20:54.374 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/sharedStrings.xml'
+2024-05-10 02:20:54.374 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/styles.xml'
+2024-05-10 02:20:54.374 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/theme/theme1.xml'
+2024-05-10 02:20:54.375 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/workbook.xml'
+2024-05-10 02:20:54.375 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet1.xml'
+2024-05-10 02:20:54.376 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet2.xml'
+2024-05-10 02:20:54.376 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet4.xml'
+2024-05-10 02:20:54.377 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet8.xml'
